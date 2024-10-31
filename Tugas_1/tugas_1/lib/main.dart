@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             ),
             const Text(
-              'Coding & Learn a new thing!!!!',
+              'Coding & Learn a new thing!',
               style: TextStyle(
                 fontSize: 20.0,
                 letterSpacing: 1.5,
