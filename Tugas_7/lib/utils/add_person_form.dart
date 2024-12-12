@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
-import 'package:tugas7/model/person.dart';
+import 'package:Tugas_7/model/person.dart';
 
 class AddPersonForm extends StatefulWidget {
   const AddPersonForm({Key? key}) : super(key: key);

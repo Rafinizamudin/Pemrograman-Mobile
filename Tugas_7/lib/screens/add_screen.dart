@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tugas7/utils/add_person_form.dart';
+import 'package:Tugas_7/utils/add_person_form.dart';
 
 class AddScreen extends StatefulWidget {
   @override

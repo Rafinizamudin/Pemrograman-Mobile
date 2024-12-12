@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tugas7/model/person.dart';
+import 'package:Tugas_7/model/person.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
 import 'screens/info_screens.dart';

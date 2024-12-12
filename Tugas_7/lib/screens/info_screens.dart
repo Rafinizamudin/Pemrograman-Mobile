@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
-import 'package:tugas7/screens/update_screen.dart';
+import 'package:Tugas_7/screens/update_screen.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:tugas7/screens/add_screen.dart';
+import 'package:Tugas_7/screens/add_screen.dart';
 
 class InfoScreen extends StatefulWidget {
   @override

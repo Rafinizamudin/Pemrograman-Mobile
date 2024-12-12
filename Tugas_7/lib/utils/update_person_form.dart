@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
 
-import 'package:tugas7/model/person.dart';
+import 'package:Tugas_7/model/person.dart';
 
 class UpdatePersonForm extends StatefulWidget {
   final int index;

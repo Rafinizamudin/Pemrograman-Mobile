@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tugas7/model/person.dart';
-import 'package:tugas7/utils/update_person_form.dart';
+import 'package:Tugas_7/model/person.dart';
+import 'package:Tugas_7/utils/update_person_form.dart';
 
 class UpdateScreen extends StatefulWidget {
   final int index;
